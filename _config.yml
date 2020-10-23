@@ -1,8 +1,8 @@
 # Site settings
 title:          PSS
 description:    "Problem Solving Study"
-baseurl:        "PSS"
-url:            "adrenalin94.github.io"
+baseurl:        "/PSS"
+url:            ""
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
