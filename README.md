@@ -1,2 +1,1 @@
-# PSS
-Problem Solving Study
+PSS BLOG
